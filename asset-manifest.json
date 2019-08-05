@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Week3_MusicPlayer/static/css/main.6530e348.chunk.css",
+    "main.js": "/Week3_MusicPlayer/static/js/main.06768bda.chunk.js",
+    "main.js.map": "/Week3_MusicPlayer/static/js/main.06768bda.chunk.js.map",
+    "runtime~main.js": "/Week3_MusicPlayer/static/js/runtime~main.1211d5e5.js",
+    "runtime~main.js.map": "/Week3_MusicPlayer/static/js/runtime~main.1211d5e5.js.map",
+    "static/js/2.8acbbd01.chunk.js": "/Week3_MusicPlayer/static/js/2.8acbbd01.chunk.js",
+    "static/js/2.8acbbd01.chunk.js.map": "/Week3_MusicPlayer/static/js/2.8acbbd01.chunk.js.map",
+    "index.html": "/Week3_MusicPlayer/index.html",
+    "precache-manifest.9d8d56a4fed9b2f0870c8aed94bb7299.js": "/Week3_MusicPlayer/precache-manifest.9d8d56a4fed9b2f0870c8aed94bb7299.js",
+    "service-worker.js": "/Week3_MusicPlayer/service-worker.js",
+    "static/css/main.6530e348.chunk.css.map": "/Week3_MusicPlayer/static/css/main.6530e348.chunk.css.map",
+    "static/media/cover_1.jpg": "/Week3_MusicPlayer/static/media/cover_1.af5e4be1.jpg",
+    "static/media/cover_3.jpg": "/Week3_MusicPlayer/static/media/cover_3.5e1b4851.jpg",
+    "static/media/cover_4.jpg": "/Week3_MusicPlayer/static/media/cover_4.9dd10d28.jpg",
+    "static/media/cover_5.jpg": "/Week3_MusicPlayer/static/media/cover_5.4d996cfa.jpg",
+    "static/media/cover_6.jpg": "/Week3_MusicPlayer/static/media/cover_6.ff720dcc.jpg",
+    "static/media/logo.svg": "/Week3_MusicPlayer/static/media/logo.ee7cd8ed.svg"
+  }
+}
